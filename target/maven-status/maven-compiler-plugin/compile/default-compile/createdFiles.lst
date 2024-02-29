@@ -1,0 +1,7 @@
+Managers\FileManager.class
+Pages\SamplePage3.class
+Utils\ConfigReader.class
+Pages\SamplePage1.class
+Pages\SamplePage2.class
+Managers\PageManager.class
+Utils\SeleniumUtils.class
